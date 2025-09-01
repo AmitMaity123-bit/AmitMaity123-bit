@@ -1,3 +1,4 @@
+![logo](https://github.com/AmitMaity123-bit/AmitMaity123-bit/blob/main/git%20banner.avif)
 <h1 align="center">Hi 👋, I'm Amit Kumar Maity</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
