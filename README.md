@@ -27,3 +27,43 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitmaity123-bit&show_icons=true&locale=en" alt="amitmaity123-bit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitmaity123-bit&" alt="amitmaity123-bit" /></p>
+# Hi, I'm Amit Kumar Maity 👋
+
+## Full Stack Developer | MERN Stack Enthusiast
+
+🎓 B.Sc Computer Science Student
+
+💻 Passionate about building scalable web applications
+
+🚀 Exploring Full Stack Development and Software Engineering
+
+### Tech Stack
+
+Frontend:
+React.js • React Native • HTML5 • CSS3 • JavaScript
+
+Backend:
+Node.js • Express.js
+
+Database:
+MongoDB
+
+Programming:
+JavaScript • Java • C • C++
+
+Core Subjects:
+DSA • OOP • Operating Systems • Networking
+
+### Connect With Me
+
+Portfolio:
+amit-maity-portfolio.netlify.app
+
+GitHub:
+github.com/AmitMaity123-bit
+
+LinkedIn:
+linkedin.com/in/amit-kumar-maity8976
+
+LeetCode:
+leetcode.com/u/Amit_Kumar_Maity89
